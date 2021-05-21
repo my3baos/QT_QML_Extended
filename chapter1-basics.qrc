@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.qml</file>
+        <file>cute.png</file>
+        <file>grin.png</file>
+    </qresource>
+</RCC>
